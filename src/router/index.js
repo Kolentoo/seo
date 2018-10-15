@@ -7,6 +7,8 @@ import Ticket from '@/views/ticket'
 import Scenery from '@/views/scenery'
 import About from '@/views/about'
 
+
+
 Vue.use(Router)
 
 export default new Router({
